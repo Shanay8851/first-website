@@ -1,0 +1,63 @@
+<h1> this is level 1 tag used to write heading
+example <h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
+
+
+
+<br> this is break line tag used to skip the line
+<hr size="3"> this is used to provide straight line between 
+<center>this is used to provide the text at the center</center>
+
+
+
+<strong> it is used to bold the given sentence</strong>
+<em>it is used to make the sentence the italic also called emphasis tag</em>
+
+
+
+<ul>use to make unordered list with bullet points</ul>
+<li>used to include the content that has to be written in bullet points</li>
+<ol>normal order list with numerical form</ol>
+<ol type="i">roman numerals</ol>
+<ol type="a">with alphabetic orders</ol>
+
+
+
+<img src="" alt="">type the source address in the blank given or can just type the adress of downloaded image
+https://crop-circle.imageonline.co/ use this to edit image
+https://www.befunky.com/create/resize-image/ to edit image
+
+
+
+<a href="#">it is used to attach the link to take us to another website or anything</a>
+either you can provide website link or files name present in your folder
+
+
+
+<table>it is the basic attribute of the table which is used to contain the whole content of table within it</table>
+
+<thead>it is used as the head of the table, this sttribute is here to just represent that contents inside it is of head content</thead>
+<tr>table row used to make the row of the tables</tr>
+<th> table head is used to write the content of the head of the table</th>
+
+<tbody>it is used to represent that content inside it is the body of the table</tbody>
+<tr>same as thead</tr>
+<td>table data is used to write content in body</td>
+to make table follow all of the above attributes in given order.
+
+
+to write the intro and your profile pic in same row we can use the table.  
+we can put the pic in one row and our intro in other row by simply implementing the table
+
+we can also make nested table in which table can be inserted in table  
+
+
+
+
+<form>it i used to mke the form</form>
+<label>it is used to write the name of the content we want to user to enter in the form example- mail,phone number etc.</label>
+<input type="message"> it is used to insert the type of message we want to insert
